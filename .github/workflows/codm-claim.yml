@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  USERNAME: "username"   # your codm id/username
+  USERNAME: "7493563703906729985"   # your codm id/username
   REGION: "auto"             # auto mostly works. if it doesn't then manually try entering your region
 
 jobs:
@@ -47,3 +47,4 @@ jobs:
             git commit -m "chore(codm): claim results $(date +%Y-%m-%d)"
             git push
           }
+          

@@ -1,0 +1,55 @@
+{
+  "player_id": "7493563703906729985",
+  "region": "auto",
+  "country_guess": "IN",
+  "profile": {
+    "username": "Miktrevin",
+    "shortId": "8CNLNK",
+    "picUrl": "https://lh3.googleusercontent.com/a/ACg8ocIr0nj9sTrS0Yb9232Y6yhrHtKagmwfsXwfJDmAdnDeCtkkg6bz=s96-c",
+    "levelImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_playerlevel.png",
+    "rank": "Master II",
+    "rankImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_pvp_ranking_5_rating_2.png"
+  },
+  "resolved": {
+    "region": "sa",
+    "country": "NG"
+  },
+  "country": "NG",
+  "freebies": [
+    {
+      "skuId": "com.activision.callofduty.weekotov2_1n_0_0",
+      "name": "DAILY GIFT",
+      "status": "ACTIVE",
+      "buyUrl": "https://order-sg.codashop.com/claim-freebie-reward",
+      "remaining": 1,
+      "limit": 1,
+      "refreshRate": 86400.0,
+      "refreshAtUnix": 1790899200
+    },
+    {
+      "skuId": "com.activision.callofduty.weekotov2_1e_0_0",
+      "name": "FREE SPRAY: INDEPENDENCE DAY ",
+      "status": "ACTIVE",
+      "buyUrl": "https://order-sg.codashop.com/claim-freebie-reward",
+      "remaining": 1,
+      "limit": 1,
+      "refreshRate": 8640000000.0,
+      "refreshAtUnix": 10430812800
+    }
+  ],
+  "ok": true,
+  "claims": [
+    {
+      "skuId": "com.activision.callofduty.weekotov2_1n_0_0",
+      "name": "DAILY GIFT",
+      "ok": true,
+      "result_code": 0,
+      "result": "SUCCESS",
+      "response": {
+        "RESULT_CODE": 0,
+        "errorCode": "",
+        "errorMsg": ""
+      }
+    }
+  ]
+}
